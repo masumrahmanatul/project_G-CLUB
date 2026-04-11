@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Net;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace GCLUB
+{
+    public partial class Registration : Form
+    {
+        public Registration()
+        {
+            InitializeComponent();
+        }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            Successful scs = new Successful();
+            scs.Show();
+        }
+
+        private void btnSubmit_Click_1(object sender, EventArgs e)
+        {
+
+            {
+                Login l = new Login();
+                l.Show();
+            }
+
+
+        }
+    }
+}

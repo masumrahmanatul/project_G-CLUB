@@ -1,0 +1,1169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|c:\\users\\user\\desktop\\project_g-club\\gclub\\gclub\\adminmanagestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminmanagestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\adminmanagestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminmanagestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\adminmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\adminmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\fctournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\fctournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\buypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\buypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\buypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\buypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|c:\\users\\user\\desktop\\project_g-club\\gclub\\gclub\\adminfinancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminfinancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\displaypaymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\displaypaymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\number_and_pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\number_and_pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managereditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managereditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managesessionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managesessionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managetourneypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managetourneypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\displaypaymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\displaypaymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\detailsofbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\detailsofbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managereditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managereditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\admin_main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\admin_main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\admin_main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\admin_main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\mktournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\mktournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\deleteconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\deleteconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managepackagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managepackagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\mktournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\mktournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\browsegames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\browsegames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\edituserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\edituserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\dummyassshit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\dummyassshit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\fctournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\fctournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\user_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\user_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\paymentcompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\paymentcompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\tournamentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\tournamentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\successful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\successful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managesessionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managesessionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\registration.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\registration.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managerprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managerprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managesessionspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managesessionspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managepackagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managepackagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\deleteconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\deleteconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\edituserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\edituserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\edituserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\edituserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\user_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\user_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\fctournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\fctournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\tournamentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\tournamentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\paymentcompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\paymentcompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\number_and_pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\number_and_pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\displaypaymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\displaypaymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\displaypaymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\displaypaymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\browsegames.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\browsegames.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\browsegames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\browsegames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\gclub\\mktournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}|GCLUB\\GCLUB.csproj|solutionrelative:gclub\\mktournamentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminManageStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageStaff.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminManageStaff.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageStaff.cs [Design]",
+              "RelativeToolTip": "GCLUB\\AdminManageStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:37:48.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminManageStaff.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageStaff.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminManageStaff.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageStaff.cs",
+              "RelativeToolTip": "GCLUB\\AdminManageStaff.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T22:04:50.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisplayPaymentOptions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentOptions.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DisplayPaymentOptions.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentOptions.cs [Design]",
+              "RelativeToolTip": "GCLUB\\DisplayPaymentOptions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:16:31.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Number_and_pin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Number_and_pin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Number_and_pin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Number_and_pin.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Number_and_pin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:36:31.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Registration.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:05:48.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyPackage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BuyPackage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\BuyPackage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BuyPackage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\BuyPackage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:11:59.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminFinancePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminFinancePage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminFinancePage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminFinancePage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\AdminFinancePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:50:45.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "GCLUB\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:04:26.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagerEditProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerEditProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerEditProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerEditProfile.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManagerEditProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:24:48.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Login.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Login.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:51:18.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageSessionsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManageSessionsPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManageSessionsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:52:05.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageTourneyPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageTourneyPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManageTourneyPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageTourneyPage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManageTourneyPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:57:56.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisplayPaymentDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentDetails.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DisplayPaymentDetails.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentDetails.cs [Design]",
+              "RelativeToolTip": "GCLUB\\DisplayPaymentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:39:07.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailsOfBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DetailsOfBooking.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DetailsOfBooking.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DetailsOfBooking.cs [Design]",
+              "RelativeToolTip": "GCLUB\\DetailsOfBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:14:56.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin_main_menu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Admin_main_menu.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Admin_main_menu.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Admin_main_menu.cs",
+              "RelativeToolTip": "GCLUB\\Admin_main_menu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:02:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminEditProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminEditProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminEditProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminEditProfile.cs [Design]",
+              "RelativeToolTip": "GCLUB\\AdminEditProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:58:24.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManagerEditProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerEditProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerEditProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerEditProfile.cs",
+              "RelativeToolTip": "GCLUB\\ManagerEditProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:02:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminEditProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminEditProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminEditProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminEditProfile.cs",
+              "RelativeToolTip": "GCLUB\\AdminEditProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T20:04:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin_main_menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Admin_main_menu.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Admin_main_menu.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Admin_main_menu.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Admin_main_menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:57:55.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MKTournamentDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournamentDetails.cs",
+              "RelativeDocumentMoniker": "GCLUB\\MKTournamentDetails.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournamentDetails.cs [Design]",
+              "RelativeToolTip": "GCLUB\\MKTournamentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:39:53.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteConfirmation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DeleteConfirmation.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DeleteConfirmation.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DeleteConfirmation.cs [Design]",
+              "RelativeToolTip": "GCLUB\\DeleteConfirmation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:56:28.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagePackagePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagePackagePage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagePackagePage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagePackagePage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManagePackagePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:58:24.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MKTournament.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournament.cs",
+              "RelativeDocumentMoniker": "GCLUB\\MKTournament.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournament.cs [Design]",
+              "RelativeToolTip": "GCLUB\\MKTournament.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:04:56.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManagerProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManagerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:59:18.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BrowseGames.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.cs",
+              "RelativeDocumentMoniker": "GCLUB\\BrowseGames.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.cs [Design]",
+              "RelativeToolTip": "GCLUB\\BrowseGames.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:13:44.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Gallery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Gallery.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Gallery.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Gallery.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Gallery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:44:58.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\WelcomePage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\WelcomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:29:49.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WelcomePage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\WelcomePage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.cs",
+              "RelativeToolTip": "GCLUB\\WelcomePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:04:37.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManagerLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerLogin.cs [Design]",
+              "RelativeToolTip": "GCLUB\\ManagerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:04:49.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditUSerProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\EditUSerProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.cs [Design]",
+              "RelativeToolTip": "GCLUB\\EditUSerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:49:18.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dummyAssShit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\dummyAssShit.cs",
+              "RelativeDocumentMoniker": "GCLUB\\dummyAssShit.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\dummyAssShit.cs [Design]",
+              "RelativeToolTip": "GCLUB\\dummyAssShit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:31:06.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FCTournament.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournament.cs",
+              "RelativeDocumentMoniker": "GCLUB\\FCTournament.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournament.cs [Design]",
+              "RelativeToolTip": "GCLUB\\FCTournament.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:03:44.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FCTournamentDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournamentDetails.cs",
+              "RelativeDocumentMoniker": "GCLUB\\FCTournamentDetails.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournamentDetails.cs [Design]",
+              "RelativeToolTip": "GCLUB\\FCTournamentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:23:47.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminManageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageUsers.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminManageUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageUsers.cs [Design]",
+              "RelativeToolTip": "GCLUB\\AdminManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:37:20.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageUsers.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminManageUsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminManageUsers.cs",
+              "RelativeToolTip": "GCLUB\\AdminManageUsers.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwLcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:25:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User_MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\User_MainMenu.cs",
+              "RelativeDocumentMoniker": "GCLUB\\User_MainMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\User_MainMenu.cs [Design]",
+              "RelativeToolTip": "GCLUB\\User_MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:31:59.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymentCompletionPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\PaymentCompletionPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\PaymentCompletionPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\PaymentCompletionPage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\PaymentCompletionPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:23:57.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TournamentPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\TournamentPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\TournamentPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\TournamentPage.cs [Design]",
+              "RelativeToolTip": "GCLUB\\TournamentPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:48:59.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuyPackage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BuyPackage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\BuyPackage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BuyPackage.cs",
+              "RelativeToolTip": "GCLUB\\BuyPackage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T17:56:42.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Reports.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Reports.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Reports.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:08:36.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Successful.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Successful.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Successful.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Successful.cs [Design]",
+              "RelativeToolTip": "GCLUB\\Successful.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:22:10.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ManageSessionsPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManageSessionsPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.cs",
+              "RelativeToolTip": "GCLUB\\ManageSessionsPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:51:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\App.config",
+              "RelativeDocumentMoniker": "GCLUB\\App.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\App.config",
+              "RelativeToolTip": "GCLUB\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-23T21:56:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Registration.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.resx",
+              "RelativeDocumentMoniker": "GCLUB\\Registration.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.resx",
+              "RelativeToolTip": "GCLUB\\Registration.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-24T14:21:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Registration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Registration.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.Designer.cs",
+              "RelativeToolTip": "GCLUB\\Registration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:21:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Program.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Program.cs",
+              "RelativeToolTip": "GCLUB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:05:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Registration.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Registration.cs",
+              "RelativeToolTip": "GCLUB\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:15:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManagerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.cs",
+              "RelativeToolTip": "GCLUB\\ManagerProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T21:08:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Login.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Login.cs",
+              "RelativeToolTip": "GCLUB\\Login.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:14:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ManageSessionsPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManageSessionsPage.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManageSessionsPage.Designer.cs",
+              "RelativeToolTip": "GCLUB\\ManageSessionsPage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:52:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ManagerProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerProfile.Designer.cs",
+              "RelativeToolTip": "GCLUB\\ManagerProfile.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAawGcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:53:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ManagePackagePage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagePackagePage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagePackagePage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagePackagePage.cs",
+              "RelativeToolTip": "GCLUB\\ManagePackagePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T09:52:00.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DeleteConfirmation.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DeleteConfirmation.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DeleteConfirmation.cs",
+              "RelativeToolTip": "GCLUB\\DeleteConfirmation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:56:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EditUSerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.cs",
+              "RelativeDocumentMoniker": "GCLUB\\EditUSerProfile.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.cs",
+              "RelativeToolTip": "GCLUB\\EditUSerProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:21:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\ManagerLogin.cs",
+              "RelativeToolTip": "GCLUB\\ManagerLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:07:58.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\AdminLogin.cs",
+              "RelativeToolTip": "GCLUB\\AdminLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T22:07:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EditUSerProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\EditUSerProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\EditUSerProfile.Designer.cs",
+              "RelativeToolTip": "GCLUB\\EditUSerProfile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:39:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User_MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\User_MainMenu.cs",
+              "RelativeDocumentMoniker": "GCLUB\\User_MainMenu.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\User_MainMenu.cs",
+              "RelativeToolTip": "GCLUB\\User_MainMenu.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewFEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:04:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FCTournament.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournament.cs",
+              "RelativeDocumentMoniker": "GCLUB\\FCTournament.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\FCTournament.cs",
+              "RelativeToolTip": "GCLUB\\FCTournament.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:25:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Gallery.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Gallery.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Gallery.cs",
+              "RelativeToolTip": "GCLUB\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:50:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TournamentPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\TournamentPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\TournamentPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\TournamentPage.cs",
+              "RelativeToolTip": "GCLUB\\TournamentPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:03:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PaymentCompletionPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\PaymentCompletionPage.cs",
+              "RelativeDocumentMoniker": "GCLUB\\PaymentCompletionPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\PaymentCompletionPage.cs",
+              "RelativeToolTip": "GCLUB\\PaymentCompletionPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T17:33:14.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DisplayPaymentOptions.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentOptions.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DisplayPaymentOptions.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentOptions.cs",
+              "RelativeToolTip": "GCLUB\\DisplayPaymentOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T17:04:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Number_and_pin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Number_and_pin.cs",
+              "RelativeDocumentMoniker": "GCLUB\\Number_and_pin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\Number_and_pin.cs",
+              "RelativeToolTip": "GCLUB\\Number_and_pin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:39:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DisplayPaymentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentDetails.cs",
+              "RelativeDocumentMoniker": "GCLUB\\DisplayPaymentDetails.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\DisplayPaymentDetails.cs",
+              "RelativeToolTip": "GCLUB\\DisplayPaymentDetails.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:19:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WelcomePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\WelcomePage.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\WelcomePage.Designer.cs",
+              "RelativeToolTip": "GCLUB\\WelcomePage.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAawH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:28:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BrowseGames.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.Designer.cs",
+              "RelativeDocumentMoniker": "GCLUB\\BrowseGames.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.Designer.cs",
+              "RelativeToolTip": "GCLUB\\BrowseGames.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:54:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BrowseGames.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.cs",
+              "RelativeDocumentMoniker": "GCLUB\\BrowseGames.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\BrowseGames.cs",
+              "RelativeToolTip": "GCLUB\\BrowseGames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:29:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MKTournamentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournamentDetails.cs",
+              "RelativeDocumentMoniker": "GCLUB\\MKTournamentDetails.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project_G-CLUB\\GCLUB\\GCLUB\\MKTournamentDetails.cs",
+              "RelativeToolTip": "GCLUB\\MKTournamentDetails.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:41:41.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

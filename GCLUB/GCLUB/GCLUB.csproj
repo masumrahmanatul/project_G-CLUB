@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7F933AA-7BCE-469D-A854-C0D7F3D1746B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GCLUB</RootNamespace>
+    <AssemblyName>GCLUB</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEditProfile.Designer.cs">
+      <DependentUpon>AdminEditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminFinancePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminFinancePage.Designer.cs">
+      <DependentUpon>AdminFinancePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManageStaff.Designer.cs">
+      <DependentUpon>AdminManageStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManageUsers.Designer.cs">
+      <DependentUpon>AdminManageUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_main_menu.Designer.cs">
+      <DependentUpon>Admin_main_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteConfirmation.Designer.cs">
+      <DependentUpon>DeleteConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetailsOfBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailsOfBooking.Designer.cs">
+      <DependentUpon>DetailsOfBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayPaymentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayPaymentDetails.Designer.cs">
+      <DependentUpon>DisplayPaymentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayPaymentOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayPaymentOptions.Designer.cs">
+      <DependentUpon>DisplayPaymentOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dummyAssShit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dummyAssShit.Designer.cs">
+      <DependentUpon>dummyAssShit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCTournament.Designer.cs">
+      <DependentUpon>FCTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCTournamentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCTournamentDetails.Designer.cs">
+      <DependentUpon>FCTournamentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagePackagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagePackagePage.Designer.cs">
+      <DependentUpon>ManagePackagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerEditProfile.Designer.cs">
+      <DependentUpon>ManagerEditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerLogin.Designer.cs">
+      <DependentUpon>ManagerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerProfile.Designer.cs">
+      <DependentUpon>ManagerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageSessionsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageSessionsPage.Designer.cs">
+      <DependentUpon>ManageSessionsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTourneyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageTourneyPage.Designer.cs">
+      <DependentUpon>ManageTourneyPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Number_and_pin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Number_and_pin.Designer.cs">
+      <DependentUpon>Number_and_pin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePage.Designer.cs">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gallery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gallery.Designer.cs">
+      <DependentUpon>Gallery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrowseGames.Designer.cs">
+      <DependentUpon>BrowseGames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MKTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MKTournament.Designer.cs">
+      <DependentUpon>MKTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MKTournamentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MKTournamentDetails.Designer.cs">
+      <DependentUpon>MKTournamentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyPackage.Designer.cs">
+      <DependentUpon>BuyPackage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentCompletionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentCompletionPage.Designer.cs">
+      <DependentUpon>PaymentCompletionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Successful.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Successful.Designer.cs">
+      <DependentUpon>Successful.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TournamentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TournamentPage.Designer.cs">
+      <DependentUpon>TournamentPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUSerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUSerProfile.Designer.cs">
+      <DependentUpon>EditUSerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_MainMenu.Designer.cs">
+      <DependentUpon>User_MainMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminEditProfile.resx">
+      <DependentUpon>AdminEditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminFinancePage.resx">
+      <DependentUpon>AdminFinancePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManageStaff.resx">
+      <DependentUpon>AdminManageStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManageUsers.resx">
+      <DependentUpon>AdminManageUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_main_menu.resx">
+      <DependentUpon>Admin_main_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteConfirmation.resx">
+      <DependentUpon>DeleteConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailsOfBooking.resx">
+      <DependentUpon>DetailsOfBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayPaymentDetails.resx">
+      <DependentUpon>DisplayPaymentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayPaymentOptions.resx">
+      <DependentUpon>DisplayPaymentOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dummyAssShit.resx">
+      <DependentUpon>dummyAssShit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCTournament.resx">
+      <DependentUpon>FCTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCTournamentDetails.resx">
+      <DependentUpon>FCTournamentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gallery.resx">
+      <DependentUpon>Gallery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagePackagePage.resx">
+      <DependentUpon>ManagePackagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerEditProfile.resx">
+      <DependentUpon>ManagerEditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerLogin.resx">
+      <DependentUpon>ManagerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerProfile.resx">
+      <DependentUpon>ManagerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageSessionsPage.resx">
+      <DependentUpon>ManageSessionsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageTourneyPage.resx">
+      <DependentUpon>ManageTourneyPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Number_and_pin.resx">
+      <DependentUpon>Number_and_pin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrowseGames.resx">
+      <DependentUpon>BrowseGames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MKTournament.resx">
+      <DependentUpon>MKTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MKTournamentDetails.resx">
+      <DependentUpon>MKTournamentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyPackage.resx">
+      <DependentUpon>BuyPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentCompletionPage.resx">
+      <DependentUpon>PaymentCompletionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Successful.resx">
+      <DependentUpon>Successful.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TournamentPage.resx">
+      <DependentUpon>TournamentPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUSerProfile.resx">
+      <DependentUpon>EditUSerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_MainMenu.resx">
+      <DependentUpon>User_MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vecteezy_profile-icon-design-vector_5544718.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homepage_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

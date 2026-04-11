@@ -1,0 +1,113 @@
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\bin\Debug\GCLUB.exe.config
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\bin\Debug\GCLUB.exe
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\bin\Debug\GCLUB.pdb
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.Form1.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.Properties.Resources.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.exe
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.pdb
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.exe.config
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.User.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.Registration.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.Successful.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.User_MainMenu.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.DeleteConfirmation.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.UserProfile.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.GamesPage.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.DetailsOfBooking.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentDetails.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentOptions.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.PaymentCompletionPage.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.PackagePage.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.TournamentPage.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournament.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournamentDetails.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournament.resources
+C:\Users\USER\Desktop\atul university\7th semester\OOP2\Final\gclub\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournamentDetails.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.exe.config
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.exe
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.pdb
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DeleteConfirmation.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DetailsOfBooking.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentDetails.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentOptions.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournament.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournamentDetails.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.WelcomePage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournament.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournamentDetails.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.PaymentCompletionPage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Properties.Resources.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Registration.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Successful.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.TournamentPage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.User_MainMenu.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.exe
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.pdb
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Login.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.BrowseGames.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Gallery.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Number_and_pin.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.BuyPackage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.EditUSerProfile.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerProfile.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerEditProfile.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminEditProfile.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Admin_main_menu.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminLogin.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerLogin.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagePackagePage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManageSessionsPage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManageTourneyPage.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminManageStaff.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminManageUsers.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.dummyAssShit.resources
+C:\Users\User\Desktop\OOP2 project\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminFinancePage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.exe.config
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.exe
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.pdb
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.exe.config
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.exe
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\bin\Debug\GCLUB.pdb
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminEditProfile.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminFinancePage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminLogin.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminManageStaff.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.AdminManageUsers.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Admin_main_menu.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DeleteConfirmation.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DetailsOfBooking.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentDetails.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.DisplayPaymentOptions.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.dummyAssShit.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournament.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.FCTournamentDetails.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Gallery.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagePackagePage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerEditProfile.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerLogin.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManagerProfile.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManageSessionsPage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.ManageTourneyPage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Number_and_pin.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.WelcomePage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.BrowseGames.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournament.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.MKTournamentDetails.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.BuyPackage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.PaymentCompletionPage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Properties.Resources.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Registration.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Successful.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.TournamentPage.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.Login.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.EditUSerProfile.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.User_MainMenu.resources
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project_G-CLUB\GCLUB\GCLUB\obj\Debug\GCLUB.csproj.CoreCompileInputs.cache
