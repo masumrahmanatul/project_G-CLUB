@@ -1,6 +1,6 @@
 # G-CLUB
 
-A desktop application for managing a gaming club — built as a Software Engineering university project.
+A desktop application for managing a game zone — built as a Object Oriented Programming university project.
 
 ## About
 
