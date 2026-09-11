@@ -4,7 +4,7 @@ A desktop application for managing a game zone — built as a Object Oriented Pr
 
 ## About
 
-G-CLUB helps manage gaming club/session operations, including member records and session tracking, through a simple desktop GUI. It was developed as a team project for the Software Engineering course.
+G-CLUB helps manage game zone operations, including member records and session tracking, through a simple desktop GUI. It was developed as a team project for the 'Object Oriented Programming 2' course.
 
 ## Features
 
