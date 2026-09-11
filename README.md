@@ -1,6 +1,6 @@
 # G-CLUB
 
-A desktop application for managing a game zone — built as a Object Oriented Programming university project.
+A desktop application for managing a game zone — built as a 'Object Oriented Programming 2' university project.
 
 ## About
 
@@ -50,4 +50,4 @@ G-CLUB helps manage game zone operations, including member records and session t
 
 ## Course
 
-Object Oriented Programming 2 — AIUB
+CSC 2210: Object Oriented Programming 2 — AIUB
